@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>The Picklist</label>
+    <type>Picklist</type>
+    <fullName>The_Picklist__c</fullName>
+    <valueSet>
+        <valueSetDefinition>
+            <value>
+                <fullName>Value 1</fullName>
+                <label>Value 1</label>
+                <default>true</default>
+            </value>
+            <value>
+                <fullName>Value 2</fullName>
+                <label>Value 2</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Value 3</fullName>
+                <label>Value 3</label>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Value 4</fullName>
+                <label>Value 4</label>
+                <default>false</default>
+            </value>
+            <sorted>true</sorted>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

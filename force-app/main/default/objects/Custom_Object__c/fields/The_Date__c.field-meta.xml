@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>The Date</label>
+    <type>Date</type>
+    <fullName>The_Date__c</fullName>
+</CustomField>
