@@ -2,7 +2,7 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": false
+      "default": true
     }
   ],
   "namespace": "",
