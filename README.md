@@ -1,4 +1,4 @@
-# Custom Objects
+# VSCode: Orgs and Source
 
 This repo is part of a series of one-feature Salesforce platform demos.
 
