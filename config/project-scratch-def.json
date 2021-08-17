@@ -1,6 +1,7 @@
 {
   "orgName": "custom-objects",
   "edition": "Developer",
+  "features": "enableSetPasswordInApi",
   "settings": {
     "communitiesSettings": {
       "enableNetworksEnabled": false
@@ -13,11 +14,6 @@
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
     }
   }
 }
